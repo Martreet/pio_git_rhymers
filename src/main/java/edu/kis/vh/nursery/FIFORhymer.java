@@ -1,3 +1,9 @@
+/*
+ * FIFORhymer is a rhymer extending DefaultCountingOutRhymer
+ * Override countOut method, rest of methods are the same as in default
+ *
+ */
+
 package edu.kis.vh.nursery;
 
 public class FIFORhymer extends DefaultCountingOutRhymer {
